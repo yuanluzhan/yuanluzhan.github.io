@@ -1,0 +1,14 @@
+title: Yuan Luzhan | 袁路展
+description: AI Researcher at JD.com
+url: https://yuanluzhan.github.io
+baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - plans/
