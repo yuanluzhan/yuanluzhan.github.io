@@ -18,7 +18,7 @@ lang: zh
 
 <section>
   <h2>关于我</h2>
-  <p>我是袁路展，北京邮电大学硕士，目前在京东从事算法研究工作。研究方向包括生成式建模、基于模型的强化学习、不确定性量化等。曾在 AAAI、KDD、CogSci 等顶级会议发表论文，并获得 AAAI 2023 Deployed Application Award。</p>
+  <p>我是袁路展，北京邮电大学硕士，目前在京东从事算法研究工作。研究方向包括生成式建模、基于模型的强化学习、不确定性量化等。曾在 AAAI、KDD、CogSci 等顶级会议发表论文。</p>
 </section>
 
 <section>
@@ -38,22 +38,18 @@ lang: zh
   <div class="item">
     <h3>京东</h3>
     <p class="meta">算法研究员 · 2025.06 – 至今</p>
-    <p>从事搜索广告、外卖推荐等领域的算法研究，主要工作包括 Decision Transformer、生成式建模、强化学习等方向。</p>
+    <p>广告算法工程师，研究方向包括生成式出价、基于模型的强化学习、博弈论。</p>
   </div>
 </section>
 
 <section>
   <h2>论文发表</h2>
   <div class="item">
-    <h3>TUGB</h3>
-    <p class="meta">KDD 2026</p>
+    <h3>OPRADI: Applying Security Game to Fight Drive under the Influence in Real-World</h3>
+    <p class="meta">AAAI 2023 (CCF-A)</p>
   </div>
   <div class="item">
-    <h3>OPRADI</h3>
-    <p class="meta">AAAI 2023 (CCF-A) · 🏆 Deployed Application Award</p>
-  </div>
-  <div class="item">
-    <h3>认知科学研究</h3>
+    <h3>The Dynamics of Cooperation with Commitment in a Population of Heterogeneous Preferences: An ABM Study</h3>
     <p class="meta">CogSci 2024 (CCF-B)</p>
   </div>
 </section>

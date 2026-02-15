@@ -18,7 +18,7 @@ lang: en
 
 <section>
   <h2>About Me</h2>
-  <p>I'm Yuan Luzhan, a Master's graduate from Beijing University of Posts and Telecommunications. Currently working as an algorithm researcher at JD.com. My research interests include Generative Modeling, Model-based RL, and Uncertainty Quantification. I have published papers at top venues including AAAI, KDD, and CogSci, and received the AAAI 2023 Deployed Application Award.</p>
+  <p>I'm Yuan Luzhan, a Master's graduate from Beijing University of Posts and Telecommunications. Currently working as an algorithm researcher at JD.com. My research interests include Generative Modeling, Model-based RL, and Uncertainty Quantification. I have published papers at top venues including AAAI, KDD, and CogSci.</p>
 </section>
 
 <section>
@@ -38,22 +38,18 @@ lang: en
   <div class="item">
     <h3>JD.com</h3>
     <p class="meta">Algorithm Researcher · 2025.06 – Present</p>
-    <p>Working on search ads and food delivery recommendation, focusing on Decision Transformer, Generative Modeling, and Reinforcement Learning.</p>
+    <p>Advertising Algorithm Engineer. Research interests include Generative Bidding, Model-based Reinforcement Learning, and Game Theory.</p>
   </div>
 </section>
 
 <section>
   <h2>Publications</h2>
   <div class="item">
-    <h3>TUGB</h3>
-    <p class="meta">KDD 2026</p>
+    <h3>OPRADI: Applying Security Game to Fight Drive under the Influence in Real-World</h3>
+    <p class="meta">AAAI 2023 (CCF-A)</p>
   </div>
   <div class="item">
-    <h3>OPRADI</h3>
-    <p class="meta">AAAI 2023 (CCF-A) · 🏆 Deployed Application Award</p>
-  </div>
-  <div class="item">
-    <h3>Cognitive Science Research</h3>
+    <h3>The Dynamics of Cooperation with Commitment in a Population of Heterogeneous Preferences: An ABM Study</h3>
     <p class="meta">CogSci 2024 (CCF-B)</p>
   </div>
 </section>
